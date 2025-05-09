@@ -6,6 +6,7 @@
 
 function corrigirValor(valor) {
   // TODO: implementar função
+  
 }
 
 //NÃO REMOVA O CÓDIGO ABAIXO

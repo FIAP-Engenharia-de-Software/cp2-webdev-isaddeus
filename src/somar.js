@@ -5,8 +5,10 @@
 
 function somar(a, b) {
   let resultado = a + b;
-  return resultado;
-}
+  return resultado;}
+  if ( a = NaN || a == null || b == NaN|| b == null){
+    return "Parâmetro inválido"
+  }
 
   
   // Testando a função
